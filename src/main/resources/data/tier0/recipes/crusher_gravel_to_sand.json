@@ -1,0 +1,12 @@
+{
+  "type": "tier0:crusher",
+  "ingredients": [
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "output": {
+    "item": "minecraft:sand"
+  },
+  "processTime": 120
+}

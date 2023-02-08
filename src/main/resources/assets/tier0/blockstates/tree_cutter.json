@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "tier0:block/tree_cutter",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "tier0:block/tree_cutter"
+    },
+    "facing=south": {
+      "model": "tier0:block/tree_cutter",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tier0:block/tree_cutter",
+      "y": 270
+    }
+  }
+}

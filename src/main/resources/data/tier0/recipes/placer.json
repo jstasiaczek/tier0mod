@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DRD",
+    "DCD"
+  ],
+  "key": {
+    "C": {
+      "item": "tier0:chamber"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "D": {
+      "item": "tier0:double_slab"
+    }
+  },
+  "result": {
+    "item": "tier0:placer"
+  }
+}

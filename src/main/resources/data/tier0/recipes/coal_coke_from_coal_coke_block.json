@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tier0:coal_coke_block"
+    }
+  ],
+  "result": {
+    "item": "tier0:coal_coke",
+    "count": 9
+  }
+}

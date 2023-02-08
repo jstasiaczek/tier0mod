@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "facing=east,type=0": {
+      "model": "tier0:block/chamber",
+      "y": 90
+    },
+    "facing=east,type=1": {
+      "model": "tier0:block/chamber_ice",
+      "y": 90
+    },
+    "facing=east,type=2": {
+      "model": "tier0:block/chamber_fire",
+      "y": 90
+    },
+    "facing=north,type=0": {
+      "model": "tier0:block/chamber"
+    },
+    "facing=north,type=1": {
+      "model": "tier0:block/chamber_ice"
+    },
+    "facing=north,type=2": {
+      "model": "tier0:block/chamber_fire"
+    },
+    "facing=south,type=0": {
+      "model": "tier0:block/chamber",
+      "y": 180
+    },
+    "facing=south,type=1": {
+      "model": "tier0:block/chamber_ice",
+      "y": 180
+    },
+    "facing=south,type=2": {
+      "model": "tier0:block/chamber_fire",
+      "y": 180
+    },
+    "facing=west,type=0": {
+      "model": "tier0:block/chamber",
+      "y": 270
+    },
+    "facing=west,type=1": {
+      "model": "tier0:block/chamber_ice",
+      "y": 270
+    },
+    "facing=west,type=2": {
+      "model": "tier0:block/chamber_fire",
+      "y": 270
+    }
+  }
+}

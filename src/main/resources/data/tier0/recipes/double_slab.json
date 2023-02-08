@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "   ",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:deepslate_bricks"
+    }
+  },
+  "result": {
+    "item": "tier0:double_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WD ",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "W": {
+      "item": "tier0:teleport_wand"
+    },
+    "D": {
+      "item": "minecraft:white_dye"
+    }
+  },
+  "result": {
+    "item": "tier0:teleport_wand_white"
+  }
+}

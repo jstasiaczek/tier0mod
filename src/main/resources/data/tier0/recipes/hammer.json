@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CRU",
+    " S ",
+    " X "
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:copper_block"
+    },
+    "U": {
+      "item": "tier0:uranium_carrot"
+    },
+    "R": {
+      "item": "tier0:compressed_redstone"
+    },
+    "X": {
+      "item": "tier0:uranium_shard"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "tier0:hammer"
+  }
+}

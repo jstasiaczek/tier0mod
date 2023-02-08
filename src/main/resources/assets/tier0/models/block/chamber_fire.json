@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "tier0:block/chamber_top",
+    "front": "tier0:block/chamber_front_fire",
+    "side": "tier0:block/chamber_side"
+  }
+}

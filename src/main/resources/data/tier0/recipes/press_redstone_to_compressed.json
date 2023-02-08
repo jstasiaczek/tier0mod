@@ -1,0 +1,13 @@
+{
+  "type": "tier0:press",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "output": {
+    "item": "tier0:compressed_redstone",
+    "count": 2
+  },
+  "processTime": 60
+}

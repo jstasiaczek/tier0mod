@@ -1,0 +1,13 @@
+{
+  "type": "tier0:sawmill",
+  "ingredients": [
+    {
+      "tag": "minecraft:wooden_buttons"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "tier0:sawdust"
+  },
+  "processTime": 60
+}

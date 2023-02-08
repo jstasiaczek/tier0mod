@@ -1,0 +1,15 @@
+{
+  "type": "tier0:chamber",
+  "ingredients": [
+    {
+      "item": "tier0:crying_obsidian_dust"
+    },
+    {
+      "item": "minecraft:campfire"
+    }
+  ],
+  "output": {
+    "item": "tier0:portal_dust"
+  },
+  "processTime": 60
+}

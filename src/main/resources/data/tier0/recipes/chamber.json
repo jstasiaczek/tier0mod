@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IDI",
+    "D D",
+    "IDI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "tier0:double_slab"
+    }
+  },
+  "result": {
+    "item": "tier0:chamber"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "tier0",
+  "version": "${version}",
+
+  "name": "tier0",
+  "description": "This is an example description! Tell everyone what your mod is about!",
+  "authors": [
+    "the_siid"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/tier0/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.ciap.mc.Tier0Mod"
+    ],
+    "client": [
+      "com.ciap.mc.Tier0ClientMod"
+    ],
+    "rei_client": [
+      "com.ciap.mc.rei.Tier0ReiClientPlugin"
+    ]
+  },
+  "mixins": [
+    "modid.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.7",
+    "fabric": "*",
+    "minecraft": "1.19.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

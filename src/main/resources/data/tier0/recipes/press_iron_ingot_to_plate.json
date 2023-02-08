@@ -1,0 +1,12 @@
+{
+  "type": "tier0:press",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "output": {
+    "item": "tier0:iron_plate"
+  },
+  "processTime": 80
+}

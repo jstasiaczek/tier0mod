@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "SSS",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "tier0:iron_double_slab"
+    },
+    "S": {
+      "item": "tier0:light_stick"
+    }
+  },
+  "result": {
+    "item": "tier0:iron_double_slab_lamp",
+    "count": 6
+  }
+}

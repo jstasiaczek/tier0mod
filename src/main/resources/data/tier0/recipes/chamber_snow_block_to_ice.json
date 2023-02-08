@@ -1,0 +1,15 @@
+{
+  "type": "tier0:chamber",
+  "ingredients": [
+    {
+      "item": "minecraft:snow_block"
+    },
+    {
+      "item": "minecraft:ice"
+    }
+  ],
+  "output": {
+    "item": "minecraft:ice"
+  },
+  "processTime": 150
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tier0:uranium_shard"
+    },
+    {
+      "item": "tier0:uranium_shard"
+    },
+    {
+      "item": "tier0:uranium_shard"
+    },
+    {
+      "item": "tier0:uranium_shard"
+    },
+    {
+      "item": "tier0:uranium_shard"
+    },
+    {
+      "item": "tier0:uranium_shard"
+    },
+    {
+      "item": "tier0:uranium_shard"
+    },
+    {
+      "item": "tier0:uranium_shard"
+    },
+    {
+      "item": "minecraft:golden_carrot"
+    }
+  ],
+  "result": {
+    "item": "tier0:uranium_carrot",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " H ",
+    "DCD"
+  ],
+  "key": {
+    "D": {
+      "item": "tier0:copper_double_slab"
+    },
+    "C": {
+      "item": "tier0:chamber"
+    },
+    "H": {
+      "item": "tier0:harvester_head"
+    }
+  },
+  "result": {
+    "item": "tier0:harvester"
+  }
+}

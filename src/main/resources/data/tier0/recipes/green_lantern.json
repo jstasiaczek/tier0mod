@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CWC",
+    "CUC",
+    "CWC"
+  ],
+  "key": {
+    "C": {
+      "item": "tier0:copper_plate"
+    },
+    "U": {
+      "item": "tier0:uranium_carrot"
+    },
+    "W": {
+      "item": "tier0:copper_wire"
+    }
+  },
+  "result": {
+    "item": "tier0:green_lantern"
+  }
+}

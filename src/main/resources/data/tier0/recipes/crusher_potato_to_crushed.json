@@ -1,0 +1,12 @@
+{
+  "type": "tier0:crusher",
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    }
+  ],
+  "output": {
+    "item": "tier0:crushed_potato"
+  },
+  "processTime": 40
+}

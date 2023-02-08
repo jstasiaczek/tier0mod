@@ -1,0 +1,15 @@
+{
+  "type": "tier0:chamber",
+  "ingredients": [
+    {
+      "item": "minecraft:coal"
+    },
+    {
+      "item": "minecraft:campfire"
+    }
+  ],
+  "output": {
+    "item": "tier0:coal_coke"
+  },
+  "processTime": 100
+}

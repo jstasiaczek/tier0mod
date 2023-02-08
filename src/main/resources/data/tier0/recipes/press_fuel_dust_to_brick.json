@@ -1,0 +1,12 @@
+{
+  "type": "tier0:press",
+  "ingredients": [
+    {
+      "item": "tier0:fuel_dust"
+    }
+  ],
+  "output": {
+    "item": "tier0:fuel_brick"
+  },
+  "processTime": 60
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D D",
+    "WGW",
+    "DCD"
+  ],
+  "key": {
+    "C": {
+      "item": "tier0:chamber"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "W": {
+      "item": "tier0:crushing_wheel"
+    },
+    "D": {
+      "item": "tier0:double_slab"
+    }
+  },
+  "result": {
+    "item": "tier0:crusher"
+  }
+}

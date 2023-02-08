@@ -1,0 +1,12 @@
+{
+  "type": "tier0:press",
+  "ingredients": [
+    {
+      "item": "minecraft:copper_ingot"
+    }
+  ],
+  "output": {
+    "item": "tier0:copper_plate"
+  },
+  "processTime": 60
+}

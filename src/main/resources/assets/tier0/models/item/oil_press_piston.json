@@ -1,0 +1,33 @@
+{
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "tier0:block/barrel_side",
+		"particle": "tier0:block/barrel_side"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 8],
+			"to": [9, 10, 9],
+			"faces": {
+				"north": {"uv": [0, 2, 0.5, 15], "texture": "#0"},
+				"east": {"uv": [0, 2, 0.5, 15], "texture": "#0"},
+				"south": {"uv": [0, 2, 0.5, 15], "texture": "#0"},
+				"west": {"uv": [0, 2, 0.5, 15], "texture": "#0"},
+				"up": {"uv": [0, 0, 0.5, 0.5], "texture": "#0"},
+				"down": {"uv": [0, 0, 0.5, 0.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [0, -38, -30.5],
+			"translation": [2, 4.25, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"rotation": [-26.37, 42, 36.55],
+			"translation": [-3.5, 3.75, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

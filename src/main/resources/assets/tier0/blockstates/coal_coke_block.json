@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "tier0:block/coal_coke_block" }
+  }
+}

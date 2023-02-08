@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "tier0:block/crusher",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "tier0:block/crusher"
+    },
+    "facing=south": {
+      "model": "tier0:block/crusher",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tier0:block/crusher",
+      "y": 270
+    }
+  }
+}

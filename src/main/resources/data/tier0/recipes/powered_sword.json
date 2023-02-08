@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " U ",
+    "CRC",
+    " S "
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:copper_block"
+    },
+    "U": {
+      "item": "tier0:uranium_carrot"
+    },
+    "R": {
+      "item": "tier0:compressed_redstone"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "tier0:powered_sword"
+  }
+}

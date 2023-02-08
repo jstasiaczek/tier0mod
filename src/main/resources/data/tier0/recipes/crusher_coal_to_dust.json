@@ -1,0 +1,12 @@
+{
+  "type": "tier0:crusher",
+  "ingredients": [
+    {
+      "item": "minecraft:coal"
+    }
+  ],
+  "output": {
+    "item": "tier0:coal_dust"
+  },
+  "processTime": 120
+}

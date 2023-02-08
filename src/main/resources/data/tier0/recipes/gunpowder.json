@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tier0:sulfur"
+    },
+    {
+      "item": "tier0:coal_dust"
+    }
+  ],
+  "result": {
+    "item": "minecraft:gunpowder"
+  }
+}

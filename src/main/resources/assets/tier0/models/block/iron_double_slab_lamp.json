@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "tier0:block/iron_lamp_top",
+    "side": "tier0:block/iron_chamber_side"
+  }
+}

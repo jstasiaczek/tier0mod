@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "PPP",
+    "WWW"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:brown_dye"
+    },
+    "W": {
+      "item": "minecraft:white_carpet"
+    },
+    "P": {
+      "item": "tier0:bio_plastic"
+    }
+  },
+  "result": {
+    "item": "tier0:eco_leather",
+    "count": 9
+  }
+}

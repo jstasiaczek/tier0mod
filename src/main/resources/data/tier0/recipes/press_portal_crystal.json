@@ -1,0 +1,12 @@
+{
+  "type": "tier0:press",
+  "ingredients": [
+    {
+      "item": "tier0:portal_dust"
+    }
+  ],
+  "output": {
+    "item": "tier0:portal_crystal"
+  },
+  "processTime": 120
+}

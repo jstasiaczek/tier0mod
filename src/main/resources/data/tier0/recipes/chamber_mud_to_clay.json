@@ -1,0 +1,15 @@
+{
+  "type": "tier0:chamber",
+  "ingredients": [
+    {
+      "item": "minecraft:mud"
+    },
+    {
+      "item": "minecraft:campfire"
+    }
+  ],
+  "output": {
+    "item": "minecraft:clay"
+  },
+  "processTime": 60
+}

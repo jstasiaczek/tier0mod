@@ -1,0 +1,13 @@
+{
+  "type": "tier0:sawmill",
+  "ingredients": [
+    {
+      "tag": "minecraft:jungle_logs"
+    }
+  ],
+  "output": {
+    "count": 5,
+    "item": "minecraft:jungle_planks"
+  },
+  "processTime": 60
+}

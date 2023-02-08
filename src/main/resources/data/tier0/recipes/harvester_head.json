@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "HBH",
+    "   "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:barrel"
+    },
+    "H": {
+      "item": "minecraft:iron_hoe"
+    }
+  },
+  "result": {
+    "item": "tier0:harvester_head"
+  }
+}

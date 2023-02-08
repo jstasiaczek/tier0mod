@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "tier0:block/placer",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "tier0:block/placer"
+    },
+    "facing=south": {
+      "model": "tier0:block/placer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tier0:block/placer",
+      "y": 270
+    }
+  }
+}

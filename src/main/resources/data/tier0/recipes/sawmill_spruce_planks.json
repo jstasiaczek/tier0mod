@@ -1,0 +1,13 @@
+{
+  "type": "tier0:sawmill",
+  "ingredients": [
+    {
+      "tag": "minecraft:spruce_logs"
+    }
+  ],
+  "output": {
+    "count": 5,
+    "item": "minecraft:spruce_planks"
+  },
+  "processTime": 60
+}

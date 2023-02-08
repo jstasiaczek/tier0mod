@@ -1,0 +1,54 @@
+{
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "tier0:block/copper_chamber_side_small",
+		"2": "tier0:block/copper_chamber_side_small_door",
+		"3": "tier0:block/copper_chamber_top_shadow",
+		"4": "tier0:block/copper_chamber_top",
+		"particle": "tier0:block/copper_chamber_side_small"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 8, 16],
+			"faces": {
+				"north": {"uv": [0, 8, 16, 16], "texture": "#2"},
+				"east": {"uv": [0, 8, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 8, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 8, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#4"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 1.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 0.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [-168.5, 19.25, -180],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"translation": [0, 9.75, 0]
+		},
+		"fixed": {
+			"rotation": [-4.75, 47.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

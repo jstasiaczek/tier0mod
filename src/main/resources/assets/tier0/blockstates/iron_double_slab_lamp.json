@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "axis=x,lit=false": {
+      "model": "tier0:block/iron_double_slab_horizontal_lamp_off",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,lit=true": {
+      "model": "tier0:block/iron_double_slab_horizontal_lamp",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,lit=false": {
+      "model": "tier0:block/iron_double_slab_lamp_off"
+    },
+    "axis=z,lit=false": {
+      "model": "tier0:block/iron_double_slab_horizontal_lamp_off",
+      "x": 90
+    },
+    "axis=y,lit=true": {
+      "model": "tier0:block/iron_double_slab_lamp"
+    },
+    "axis=z,lit=true": {
+      "model": "tier0:block/iron_double_slab_horizontal_lamp",
+      "x": 90
+    }
+  }
+}

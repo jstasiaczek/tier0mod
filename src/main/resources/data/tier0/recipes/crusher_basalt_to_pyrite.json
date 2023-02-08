@@ -1,0 +1,12 @@
+{
+  "type": "tier0:crusher",
+  "ingredients": [
+    {
+      "item": "minecraft:basalt"
+    }
+  ],
+  "output": {
+    "item": "tier0:pyrite"
+  },
+  "processTime": 150
+}

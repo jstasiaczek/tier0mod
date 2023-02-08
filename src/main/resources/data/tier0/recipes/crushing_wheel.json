@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NSN",
+    "NSN",
+    "NSN"
+  ],
+  "key": {
+    "S": {
+      "item": "tier0:oil_press_piston"
+    },
+    "N": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "tier0:crushing_wheel"
+  }
+}

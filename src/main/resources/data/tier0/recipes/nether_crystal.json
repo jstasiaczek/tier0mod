@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tier0:nether_crystal_shard"
+    },
+    {
+      "item": "tier0:nether_crystal_shard"
+    },
+    {
+      "item": "tier0:nether_crystal_shard"
+    },
+    {
+      "item": "tier0:nether_crystal_shard"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "tier0:nether_crystal_shard"
+    },
+    {
+      "item": "tier0:nether_crystal_shard"
+    },
+    {
+      "item": "tier0:nether_crystal_shard"
+    },
+    {
+      "item": "tier0:nether_crystal_shard"
+    }
+  ],
+  "result": {
+    "item": "tier0:nether_crystal"
+  }
+}

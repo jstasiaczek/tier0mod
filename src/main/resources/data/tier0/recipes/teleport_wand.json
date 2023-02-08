@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  C",
+    " P ",
+    "W S"
+  ],
+  "key": {
+    "W": {
+      "item": "tier0:copper_wire"
+    },
+    "P": {
+      "item": "minecraft:potato"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "tier0:portal_crystal"
+    }
+  },
+  "result": {
+    "item": "tier0:teleport_wand"
+  }
+}

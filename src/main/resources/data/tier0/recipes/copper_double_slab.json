@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PDP",
+    "PDP",
+    "PDP"
+  ],
+  "key": {
+    "D": {
+      "item": "tier0:double_slab"
+    },
+    "P": {
+      "item": "tier0:copper_plate"
+    }
+  },
+  "result": {
+    "item": "tier0:copper_double_slab",
+    "count": 6
+  }
+}

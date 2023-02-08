@@ -1,0 +1,13 @@
+{
+  "type": "tier0:crusher",
+  "ingredients": [
+    {
+      "item": "tier0:coal_coke"
+    }
+  ],
+  "output": {
+    "item": "tier0:coal_coke_chunks",
+    "count": 3
+  },
+  "processTime": 120
+}

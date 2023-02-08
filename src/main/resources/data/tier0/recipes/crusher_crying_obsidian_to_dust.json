@@ -1,0 +1,13 @@
+{
+  "type": "tier0:crusher",
+  "ingredients": [
+    {
+      "item": "minecraft:crying_obsidian"
+    }
+  ],
+  "output": {
+    "item": "tier0:crying_obsidian_dust",
+    "count": 4
+  },
+  "processTime": 150
+}

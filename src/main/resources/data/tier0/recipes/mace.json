@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "P",
+    " "
+  ],
+  "key": {
+    "P": {
+      "item": "tier0:oil_press_piston"
+    },
+    "C": {
+      "item": "tier0:crushing_wheel"
+    }
+  },
+  "result": {
+    "item": "tier0:mace"
+  }
+}

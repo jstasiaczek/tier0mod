@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    " P ",
+    "III"
+  ],
+  "key": {
+    "P": {
+      "item": "tier0:oil_press_piston"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "tier0:press_piston"
+  }
+}

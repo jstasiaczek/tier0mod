@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "tier0:block/iron_double_slab_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "tier0:block/iron_double_slab"
+    },
+    "axis=z": {
+      "model": "tier0:block/iron_double_slab_horizontal",
+      "x": 90
+    }
+  }
+}

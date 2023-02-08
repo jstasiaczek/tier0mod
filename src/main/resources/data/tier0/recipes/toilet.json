@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLC",
+    "CCC",
+    " CC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:clay"
+    },
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "result": {
+    "item": "tier0:toilet"
+  }
+}

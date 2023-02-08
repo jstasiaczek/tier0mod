@@ -1,0 +1,15 @@
+{
+  "type": "tier0:chamber",
+  "ingredients": [
+    {
+      "item": "tier0:compressed_redstone"
+    },
+    {
+      "item": "minecraft:campfire"
+    }
+  ],
+  "output": {
+    "item": "tier0:uranium_shard"
+  },
+  "processTime": 90
+}

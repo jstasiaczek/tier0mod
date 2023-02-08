@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WP",
+    "WP",
+    "WP"
+  ],
+  "key": {
+    "P": {
+      "item": "tier0:bio_plastic"
+    },
+    "W": {
+      "item": "tier0:copper_wire"
+    }
+  },
+  "result": {
+    "item": "tier0:light_stick",
+    "count": 3
+  }
+}

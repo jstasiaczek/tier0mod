@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDI",
+    "DSI",
+    "DCI"
+  ],
+  "key": {
+    "D": {
+      "item": "tier0:double_slab"
+    },
+    "I": {
+      "item": "tier0:iron_double_slab"
+    },
+    "C": {
+      "item": "tier0:chamber"
+    },
+    "S": {
+      "item": "tier0:saw"
+    }
+  },
+  "result": {
+    "item": "tier0:tree_cutter"
+  }
+}

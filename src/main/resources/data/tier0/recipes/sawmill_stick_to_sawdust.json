@@ -1,0 +1,12 @@
+{
+  "type": "tier0:sawmill",
+  "ingredients": [
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "output": {
+    "item": "tier0:sawdust"
+  },
+  "processTime": 60
+}

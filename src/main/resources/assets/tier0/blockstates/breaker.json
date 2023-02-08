@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "tier0:block/breaker3d",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "tier0:block/breaker3d"
+    },
+    "facing=south": {
+      "model": "tier0:block/breaker3d",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tier0:block/breaker3d",
+      "y": 270
+    }
+  }
+}

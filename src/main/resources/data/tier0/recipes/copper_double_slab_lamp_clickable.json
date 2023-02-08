@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tier0:copper_double_slab_lamp"
+    },
+    {
+      "item": "minecraft:lever"
+    }
+  ],
+  "result": {
+    "item": "tier0:copper_double_slab_lamp_clickable"
+  }
+}
