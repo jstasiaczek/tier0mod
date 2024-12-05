@@ -116,6 +116,7 @@ public class ChamberBlockEntity extends BlockEntity implements NamedScreenHandle
         Integer chamberType = getChamberType(bs);
         Boolean redstonePowered = world.isReceivingRedstonePower(pos);
         if (chamberType != entity.chamberType) {
+            entity.chamberType = chamberType;
             world.setBlockState(pos, state.with(Chamber.TYPE, chamberType), 3);
         }
 
